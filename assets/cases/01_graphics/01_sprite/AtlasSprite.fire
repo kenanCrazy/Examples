@@ -38,12 +38,16 @@
       },
       {
         "__id__": 15
+      },
+      {
+        "__id__": 17
       }
     ],
     "_localZOrder": 0,
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "3aac494e-8a8a-4f99-81d3-9b5f4fb8e6a0"
   },
   {
@@ -98,6 +102,7 @@
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "71edbel3TRPe5aECV9Y39xt",
     "_active": true,
     "_components": [
@@ -105,7 +110,8 @@
         "__id__": 14
       }
     ],
-    "_prefab": null
+    "_prefab": null,
+    "groupIndex": 0
   },
   {
     "__type__": "cc.Node",
@@ -149,6 +155,7 @@
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "4fc95JFMFRIQ7y8sPrfENSH",
     "_active": true,
     "_components": [
@@ -158,7 +165,8 @@
     ],
     "_prefab": {
       "__id__": 5
-    }
+    },
+    "groupIndex": 0
   },
   {
     "__type__": "cc.Sprite",
@@ -172,7 +180,6 @@
       "__uuid__": "0aa0b36c-c4a9-4ce2-ab3b-efede708e6d4"
     },
     "_type": 0,
-    "_useOriginalSize": true,
     "_sizeMode": 0,
     "_fillType": 0,
     "_fillCenter": {
@@ -243,6 +250,7 @@
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "ac849JS/7dKmK4yYynp9nQE",
     "_active": true,
     "_components": [
@@ -250,7 +258,8 @@
         "__id__": 9
       }
     ],
-    "_prefab": null
+    "_prefab": null,
+    "groupIndex": 0
   },
   {
     "__type__": "cc.Node",
@@ -275,8 +284,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 371.1111111111111,
-      "height": 44.44444444444444
+      "width": 400,
+      "height": 40
     },
     "_children": [],
     "_rotationX": 0,
@@ -294,6 +303,7 @@
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "ae334yc/NlLlKUjJITh97Jg",
     "_active": true,
     "_components": [
@@ -301,7 +311,8 @@
         "__id__": 8
       }
     ],
-    "_prefab": null
+    "_prefab": null,
+    "groupIndex": 0
   },
   {
     "__type__": "e4f88adp3hERoJ48DZ2PSAl",
@@ -315,6 +326,7 @@
     "_fontSize": 40,
     "_lineHeight": 40,
     "_enableWrapText": true,
+    "_N$file": null,
     "_isSystemFontUsed": true,
     "_N$string": "This is Spirte Single.",
     "_N$horizontalAlign": 1,
@@ -334,7 +346,6 @@
       "__uuid__": "23eb8387-ca49-4121-be68-56054ee539d8"
     },
     "_type": 0,
-    "_useOriginalSize": true,
     "_sizeMode": 1,
     "_fillType": 0,
     "_fillCenter": {
@@ -395,6 +406,7 @@
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "4b81dtg1pJIhLXi9aMRH8CV",
     "_active": true,
     "_components": [
@@ -402,7 +414,8 @@
         "__id__": 13
       }
     ],
-    "_prefab": null
+    "_prefab": null,
+    "groupIndex": 0
   },
   {
     "__type__": "cc.Node",
@@ -427,8 +440,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 455.5555555555556,
-      "height": 44.44444444444444
+      "width": 320,
+      "height": 40
     },
     "_children": [],
     "_rotationX": 0,
@@ -446,6 +459,7 @@
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "e14f2keB+RFjYgryQ1snYvA",
     "_active": true,
     "_components": [
@@ -453,7 +467,8 @@
         "__id__": 12
       }
     ],
-    "_prefab": null
+    "_prefab": null,
+    "groupIndex": 0
   },
   {
     "__type__": "e4f88adp3hERoJ48DZ2PSAl",
@@ -467,6 +482,7 @@
     "_fontSize": 40,
     "_lineHeight": 40,
     "_enableWrapText": true,
+    "_N$file": null,
     "_isSystemFontUsed": true,
     "_N$string": "This is Spirte From Atlas.",
     "_N$horizontalAlign": 1,
@@ -486,7 +502,6 @@
       "__uuid__": "7ccb784f-7c51-4a0b-a59e-e95da40f3013"
     },
     "_type": 0,
-    "_useOriginalSize": true,
     "_sizeMode": 1,
     "_fillType": 0,
     "_fillCenter": {
@@ -506,7 +521,7 @@
   {
     "__type__": "cc.Canvas",
     "_name": "",
-    "_objFlags": 1835008,
+    "_objFlags": 0,
     "node": {
       "__id__": 2
     },
@@ -561,6 +576,7 @@
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "026a3ricONKGbyE6fVosTpn",
     "_active": true,
     "_components": [
@@ -568,7 +584,8 @@
         "__id__": 16
       }
     ],
-    "_prefab": null
+    "_prefab": null,
+    "groupIndex": 0
   },
   {
     "__type__": "6a871gy73FDLap3Eje/2h6i",
@@ -579,5 +596,84 @@
     },
     "_enabled": true,
     "text": "## 图集 Sprite 使用说明\n\n1. 场景中显示两个绵羊 Sprite。名为 Sprite_From_Atlas 的绵羊图像来自图集中的资源\n2. 选中`Canvas/Sprite_From_Atlas`，在属性检查器中的Sprite组件的Sprite属性可以看到引用的资源是 `res/atlas/sheep` 这个 atlas 下的某个 SpriteFrame。\n3. 拖拽另一个 `res/atlas/sheep` 下的 SpriteFrame 到 Sprite 属性中，可以看到绵羊的图像发生变化。\n\n## 补充说明\n\n图集文件可以通过 TexturePacker 等图集工具生成。"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "lalala",
+    "_objFlags": 0,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_parent": {
+      "__id__": 1
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 512,
+      "height": 512
+    },
+    "_children": [],
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_tag": -1,
+    "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
+    "_id": "fcee1AobNFOxaFLcMwS+fh+",
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 18
+      }
+    ],
+    "_prefab": null,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 17
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "bf867cae-8a21-4fff-9dad-d21b5098a1a6"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
   }
 ]

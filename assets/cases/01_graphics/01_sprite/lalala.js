@@ -17,7 +17,7 @@ cc.Class({
 
     // use this for initialization
     onLoad: function () {
-
+        cc.moveBy(1, 0, 2);
     },
 
     setFlashAction: function(){
