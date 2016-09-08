@@ -37,5 +37,5 @@ cc.Class({
     }，
 
 
-    //呵呵   marge branch test code
+    //这是master
 });
