@@ -14,6 +14,7 @@ cc.Class({
             default: null,
             url: cc.AudioClip
         }
+        test: 456;
     },
 
     // use this for initialization
@@ -37,5 +38,5 @@ cc.Class({
     }，
 
 
-    //这是master
+    //这是master  dsf asdf wf
 });
