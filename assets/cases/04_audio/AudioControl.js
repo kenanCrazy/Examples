@@ -34,5 +34,8 @@ cc.Class({
     // called every frame
     update: function (dt) {
 
-    },
+    }，
+
+
+    //呵呵   marge branch test code
 });
